@@ -15,7 +15,7 @@
 #define _DDP_WDMA_H_
 
 #include "../../mt6735/ddp_hal.h"
-#include "ddp_info.h"
+#include "../../mt6735/ddp_info.h"
 
 /* start module */
 int wdma_start(DISP_MODULE_ENUM module, void *handle);
