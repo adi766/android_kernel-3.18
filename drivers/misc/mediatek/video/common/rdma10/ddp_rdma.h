@@ -18,7 +18,7 @@
 #include <linux/types.h>
 /* #include <mach/mt_reg_base.h> */
 #include "../../mt6735/ddp_info.h"
-#include "ddp_hal.h"
+#include "../../mt6735/ddp_hal.h"
 
 extern unsigned long long rdma_start_time[];
 extern unsigned long long rdma_end_time[];
