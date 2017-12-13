@@ -14,7 +14,7 @@
 #ifndef _DDP_OVL_H_
 #define _DDP_OVL_H_
 
-#include "ddp_hal.h"
+#include "../ddp_hal.h"
 #include "DpDataType.h"
 #include "ddp_info.h"
 
