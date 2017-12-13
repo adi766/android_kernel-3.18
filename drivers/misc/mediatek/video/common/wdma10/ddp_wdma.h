@@ -14,7 +14,7 @@
 #ifndef _DDP_WDMA_H_
 #define _DDP_WDMA_H_
 
-#include "ddp_hal.h"
+#include "../../mt6735/ddp_hal.h"
 #include "ddp_info.h"
 
 /* start module */
