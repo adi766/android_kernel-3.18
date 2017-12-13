@@ -25,7 +25,7 @@
 #endif
 
 #include "m4u.h"
-#include "mt6735/m4u_reg.h"
+#include "m4u_reg.h"
 #include "../2.0/m4u_pgtable.h"
 #include "m4u_platform.h"
 
