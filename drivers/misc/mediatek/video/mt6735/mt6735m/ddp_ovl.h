@@ -16,7 +16,7 @@
 
 #include "../ddp_hal.h"
 #include "DpDataType.h"
-#include "ddp_info.h"
+#include "../ddp_info.h"
 
 
 #define OVL_MAX_WIDTH  (4095)
