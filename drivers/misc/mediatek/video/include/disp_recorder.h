@@ -16,7 +16,7 @@
 
 #include <linux/types.h>
 #include "mmprofile.h"
-#include "disp_event.h"
+#include "../mt6735/disp_event.h"
 #include "ddp_info.h"
 
 #define DPREC_LOGGER_LEVEL_ALL		0xFFFFFFFF
